@@ -1,4 +1,4 @@
-![https://raw.githubusercontent.com/jadenguitarman/pizzacake-recipes/main/images/pizzacake.jpg](Pizzacake)
+![Pizzacake](https://raw.githubusercontent.com/jadenguitarman/pizzacake-recipes/main/images/pizzacake.jpg)
 
 ## Ingredients
 - 2 cans (13.8 oz) refrigerated Pillsbury™ Classic Crust Pizza Crust
