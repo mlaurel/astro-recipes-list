@@ -1,4 +1,4 @@
-![Pizzacake](https://raw.githubusercontent.com/jadenguitarman/pizzacake-recipes/main/images/pizzacake.jpg)
+![Pizzacake](https://raw.githubusercontent.com/mlaurel/astro-recipes-list/main/images/pizzacake.jpg)
 
 ## Ingredients
 - 2 cans (13.8 oz) refrigerated Pillsbury™ Classic Crust Pizza Crust
@@ -16,4 +16,3 @@
 5. Carefully place 1 partially baked crust round in bottom of pan. Spread pizza sauce over crust; top with pepperoni slices and sprinkle with mozzarella cheese (when cheese melts, crust above will stick to it). Repeat to make 3 more layers. For top layer, place last crust over cheese; sprinkle with remaining cheese and arrange remaining pepperoni on top.
 6. Fold overhanging dough over top layer of pizza cake to make a raised crust edge.
 7. Bake 20 to 25 minutes or until dough around pizza cake is fully cooked. (To test, carefully pull up parchment paper to raise pizza cake out of pan.) Once completely baked, cool in pan 5 minutes. Remove pizza cake from pan; brush crust with butter. Use sharp knife to cut slices like you would a cake.
-
